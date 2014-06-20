@@ -1,0 +1,2 @@
+Sitemap: http://jksuom.github.io/notes/sitemapindex.xml
+
