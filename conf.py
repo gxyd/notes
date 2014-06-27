@@ -285,7 +285,7 @@ DEPLOY_COMMANDS = [
     "rsync -rPv --delete-after --exclude .git --exclude .gitignore --exclude cache/ --exclude .doit.db output/ .",
     "git add -A",
     "git commit -a -m 'Updating notes'",
-    "git push",
+    "git push github gh-pages",
     "git checkout master",
 ]
 
@@ -296,6 +296,7 @@ DEPLOY_COMMANDS = [
 
 # The name of the remote where you wish to push to, using github_deploy.
 # GITHUB_REMOTE_NAME = 'origin'
+GITHUB_REMOTE_NAME = 'github'
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
