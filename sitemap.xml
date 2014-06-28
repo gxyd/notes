@@ -6,34 +6,30 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://jksuom.github.io/notes/2014/index.html</loc>
-  <lastmod>2014-06-12</lastmod>
+  <lastmod>2014-06-21</lastmod>
  </url>
  <url>
   <loc>http://jksuom.github.io/notes/archive.html</loc>
-  <lastmod>2014-06-12</lastmod>
+  <lastmod>2014-06-21</lastmod>
  </url>
  <url>
   <loc>http://jksuom.github.io/notes/categories/index.html</loc>
-  <lastmod>2014-06-12</lastmod>
- </url>
- <url>
-  <loc>http://jksuom.github.io/notes/categories/mathjax.html</loc>
-  <lastmod>2014-06-12</lastmod>
- </url>
- <url>
-  <loc>http://jksuom.github.io/notes/galleries/index.html</loc>
-  <lastmod>2014-06-12</lastmod>
+  <lastmod>2014-06-21</lastmod>
  </url>
  <url>
   <loc>http://jksuom.github.io/notes/index.html</loc>
-  <lastmod>2014-06-12</lastmod>
+  <lastmod>2014-06-21</lastmod>
  </url>
  <url>
-  <loc>http://jksuom.github.io/notes/listings/index.html</loc>
-  <lastmod>2014-06-12</lastmod>
+  <loc>http://jksuom.github.io/notes/posts/welcome-to-notes.html</loc>
+  <lastmod>2014-06-21</lastmod>
  </url>
  <url>
-  <loc>http://jksuom.github.io/notes/posts/integration-of-quadratic-functions.html</loc>
-  <lastmod>2014-06-12</lastmod>
+  <loc>http://jksuom.github.io/notes/stories/integration-of-functions-of-genus-0.html</loc>
+  <lastmod>2014-06-21</lastmod>
+ </url>
+ <url>
+  <loc>http://jksuom.github.io/notes/stories/integration-of-quadratic-functions.html</loc>
+  <lastmod>2014-06-21</lastmod>
  </url>
 </urlset>
